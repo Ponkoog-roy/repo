@@ -11,4 +11,4 @@ for number in range(4):
         print("successful")
         break
 else:
-    print("Attemped 4 times and failed")
+    print("Go to hell")
