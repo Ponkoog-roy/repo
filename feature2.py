@@ -12,3 +12,7 @@ for number in range(4):
         break
 else:
     print("Attemped 4 times and failed")
+
+trs=4
+
+
